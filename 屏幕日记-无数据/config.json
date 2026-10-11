@@ -1,0 +1,9 @@
+{
+  "poll_seconds": 3,
+  "settle_seconds": 5,
+  "shot_max_width": 896,
+  "keep_shots_days": 7,
+  "focus_mode": true,
+  "plan": [],
+  "plan_done": {}
+}
